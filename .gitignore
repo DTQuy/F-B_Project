@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/F-B_Project.API/.vs
+/F-B_Project.API/obj
+/F-B_Project.Application/obj
+/F-B_Project.Database/obj
+/F-B_Project.Domain/obj
+/F-B_Project.DTOs/obj
+/F-B_Project.StoreAdminAPI/obj
+/F-B_Project.SystemsAdminAPI/obj
